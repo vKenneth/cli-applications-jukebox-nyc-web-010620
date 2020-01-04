@@ -23,3 +23,7 @@ list = [1. Phoenix - 1901
 8. Harry Chapin - Cats in the Cradle
 9. Amos Lee - Keep It Loose, Keep It Tight]
 
+"Please enter a song name or number:" gets.strip
+
+puts "Goodbye"
+
